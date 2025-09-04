@@ -30,6 +30,8 @@ A table comparing ChatGPT's responses to naïve and basic prompts across all sce
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
+---
+
 ### 📝 Study of Prompt Templating Techniques for Automated Maintenance Report Generation
 
 **1. Define the Scenario and Use Case: Overview**
